@@ -2,11 +2,13 @@
 
 🌟 About Me:
 
-Fluent in the language of code and sarcasm.
-Turning coffee into code since day one.
-Part-time debugger, full-time dreamer.
-Believer in the power of semicolons and good vibes.
+freshie for github!
+Fluent in the language of code and sarcasm.\n
+Turning coffee into code since day one.\n
+Part-time debugger, full-time dreamer.\n
+Believer in the power of semicolons and good vibes.\n
 Let's collaborate and create some byte-sized magic! 🚀
+
 
 
 <!---
