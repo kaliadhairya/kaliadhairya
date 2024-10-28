@@ -2,7 +2,7 @@
 
 🌟 About Me:
 
-Fluent in the language of code and sarcasm.\n
+Fluent in the language of code and sarcasm.
 
 Turning coffee into code since day one.
 Part-time debugger, full-time dreamer.
