@@ -2,7 +2,7 @@
   
 # Hello Dosto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;DevOps+Enthusiast;Cloud+Computing+Learner;Building+Skills+Everyday)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,12 +10,11 @@
 
 ## 🚀 About Me
 
-I'm **Dhairya Kalia**, a passionate software developer and DevOps enthusiast from 🇮🇳 India. I focus on **DevOps, Cloud Computing, and Platform Engineering** with a growing interest in **React Native** and full stack development.
+I'm **Dhairya Kalia**, an aspiring software developer and DevOps enthusiast from 🇮🇳 India. I'm passionate about learning and building skills in **Cloud Computing, DevOps, and Full Stack Development**, currently focusing on **React Native** and backend technologies.
 
-- 🔭 Currently working on **cloud-native solutions**, **automation**, and **scalable infrastructure**
-- 🌱 Always learning and improving skills in **DevOps, Kubernetes, AWS, and React Native**
-- 👯 Open to collaborating on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **DevOps, Cloud, Data Structures, and Software Development**
+- 🌱 Currently learning **React Native, Kubernetes, AWS, and DevOps tools**
+- 👯 Looking to collaborate on open-source projects and grow through practical experience
+- 💬 Ask me about **Data Structures, Cloud Basics, and DevOps fundamentals**
 - 📫 Reach me at **kaliadhairya@gmail.com**
 
 ---
